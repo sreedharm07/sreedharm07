@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreedhar
-- 👀 I’m interested in Devops process
-- 🌱 I’m currently learning devops
+- 👀 interested in Devops process
+- 🌱 currently learning devops
 
 <!---
 sreedharm07/sreedharm07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
